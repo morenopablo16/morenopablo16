@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a cross-platform app<br>🌱 I'm currently finishing my degree and eager to kickstart my professional career.:<br>👨‍💻  I’m currently learning Node.js, Angular, Kubernetes<br>
+🔭 I’m currently working on a cross-platform app<br>🌱 I'm currently finishing my degree and eager to kickstart my professional career.<br>👨‍💻  I’m currently learning Node.js, Angular, Kubernetes<br>
 
 
 ## 🌐 Socials:
