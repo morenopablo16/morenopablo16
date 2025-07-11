@@ -3,8 +3,10 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a cross-platform app<br>🌱 I'm currently finishing my degree and eager to kickstart my professional career.<br>👨‍💻  I’m currently learning Node.js, Angular, Kubernetes<br>
-
+🎓 I'm finishing my Computer Engineering degree and currently looking to kickstart my professional career.<br>
+🧠 I recently developed a monitoring system with Fitbit wearables for my final degree project.<br>
+🌐 I'm especially interested in backend development, cloud infrastructure, and DevOps tools.<br>
+🚀 Currently deepening my knowledge in Node.js, containerization (Docker/Podman), and deployment automation.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morenopablo16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-moreno-muñoz-5240732bb)
