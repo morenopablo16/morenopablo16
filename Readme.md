@@ -48,8 +48,6 @@ I combine:
 - **Cloud:** AWS (basic), Azure (basic)  
 - **DevOps fundamentals:** Git, CI/CD basics
 
-> 🤝 *Your tech stack sigue siendo amplio por tu ingeniería (y está bien), pero ahora está ordenado por áreas para que no parezca disperso.*
-
 ---
 
 # 📂 Featured Projects
